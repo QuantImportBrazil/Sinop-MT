@@ -1,6 +1,6 @@
  ########### [QuantImport](https://quantimportbrazil.github.io/Sobre/) ###########  
 
-# Previsão de Importação - Rondonópolis-MT  
+# Previsão de Importação - Sinop-MT  
 
 > Emissão: 06-2025  
 > Para comparação, são também informadas as previsões e os valores reais em período(s) anterior(es) ao corrente.  
@@ -9,8 +9,6 @@
 ***[Selecione o Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)***  
 ---
 
-
-![Gráfico de Previsão](31021010.png)
 
 ![Gráfico de Previsão](31022100.png)
 
