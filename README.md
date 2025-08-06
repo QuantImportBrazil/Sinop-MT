@@ -25,10 +25,25 @@ Previsão Influenciada:
 - Mês previsto: 02
 
 Fator Influenciador:
-quant_expl    Urea_lag3
-mês_expl             03
-importance     0.006148
-Name: 35, dtype: object
+   quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
+35  Urea_lag3       03     None     None     None    None       None     None   
+35  Urea_lag3       03     None     None     None    None       None     None   
+35  Urea_lag3       03     None     None     None    None       None     None   
+35  Urea_lag3       03     None     None     None    None       None     None   
+35  Urea_lag3       03     None     None     None    None       None     None   
+35  Urea_lag3       03     None     None     None    None       None     None   
+35  Urea_lag3       03     None     None     None    None       None     None   
+35  Urea_lag3       03     None     None     None    None       None     None   
+
+    importance mês_target mun_target ncm_target anos_expl marca  
+35    0.006148         02    5107909   31021010         8   dif  
+35    0.006148         02    5107909   31021010         8   dif  
+35    0.006148         02    5107909   31021010         8   dif  
+35    0.006148         02    5107909   31021010         8   dif  
+35    0.006148         02    5107909   31021010         8   dif  
+35    0.006148         02    5107909   31021010         8   dif  
+35    0.006148         02    5107909   31021010         8   dif  
+35    0.006148         02    5107909   31021010         8   dif  
 
 
 
@@ -46,10 +61,25 @@ Previsão Influenciada:
 - Mês previsto: 10
 
 Fator Influenciador:
-quant_expl    DAP_lag3
-mês_expl            12
-importance    0.003253
-Name: 4, dtype: object
+  quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
+4   DAP_lag3       12     None     None     None    None       None     None   
+4   DAP_lag3       12     None     None     None    None       None     None   
+4   DAP_lag3       12     None     None     None    None       None     None   
+4   DAP_lag3       12     None     None     None    None       None     None   
+4   DAP_lag3       12     None     None     None    None       None     None   
+4   DAP_lag3       12     None     None     None    None       None     None   
+4   DAP_lag3       12     None     None     None    None       None     None   
+4   DAP_lag3       12     None     None     None    None       None     None   
+
+   importance mês_target mun_target ncm_target anos_expl marca  
+4    0.003253         10    5107909   31022100         8   dif  
+4    0.003253         10    5107909   31022100         8   dif  
+4    0.003253         10    5107909   31022100         8   dif  
+4    0.003253         10    5107909   31022100         8   dif  
+4    0.003253         10    5107909   31022100         8   dif  
+4    0.003253         10    5107909   31022100         8   dif  
+4    0.003253         10    5107909   31022100         8   dif  
+4    0.003253         10    5107909   31022100         8   dif  
 
 
 
@@ -67,10 +97,25 @@ Previsão Influenciada:
 - Mês previsto: 05
 
 Fator Influenciador:
-quant_expl    DAP_lag3
-mês_expl            11
-importance    0.043253
-Name: 0, dtype: object
+  quant_expl mês_expl sh2_expl sh4_expl ncm_expl uf_expl regin_expl mun_expl  \
+0   DAP_lag3       11     None     None     None    None       None     None   
+0   DAP_lag3       11     None     None     None    None       None     None   
+0   DAP_lag3       11     None     None     None    None       None     None   
+0   DAP_lag3       11     None     None     None    None       None     None   
+0   DAP_lag3       11     None     None     None    None       None     None   
+0   DAP_lag3       11     None     None     None    None       None     None   
+0   DAP_lag3       11     None     None     None    None       None     None   
+0   DAP_lag3       11     None     None     None    None       None     None   
+
+   importance mês_target mun_target ncm_target anos_expl marca  
+0    0.043253         05    5107909   31042090         8   dif  
+0    0.043253         05    5107909   31042090         8   dif  
+0    0.043253         05    5107909   31042090         8   dif  
+0    0.043253         05    5107909   31042090         8   dif  
+0    0.043253         05    5107909   31042090         8   dif  
+0    0.043253         05    5107909   31042090         8   dif  
+0    0.043253         05    5107909   31042090         8   dif  
+0    0.043253         05    5107909   31042090         8   dif  
 
 
 
