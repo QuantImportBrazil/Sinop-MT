@@ -17,6 +17,62 @@
 
 ![Gráfico de Previsão](31021010.png)
 
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Sinop
+- Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
+- Mês previsto: 11
+
+Fator Influenciador:
+- Município: Cuiabá
+- Elemento: Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais
+- Mês previsto: 11
+- Unidade: sm_diff
+
+
+
+
+
+
+
 ![Gráfico de Previsão](31022100.png)
 
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Sinop
+- Produto (NCM): Sulfato de amônio-31022100 
+- Mês previsto: 12
+
+Fator Influenciador:
+- Município: Porto Alegre
+- Elemento: Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais
+- Mês previsto: 12
+- Unidade: kt_lag13
+
+
+
+
+
+
+
 ![Gráfico de Previsão](31042090.png)
+
+Fator de Influência em Destaque:
+
+Previsão Influenciada:
+- Município: Sinop
+- Produto (NCM): Outros cloretos de potássio-31042090 
+- Mês previsto: 12
+
+Fator Influenciador:
+- Município: Feira de Santana
+- Elemento: Adubos (fertilizantes)
+- Mês previsto: 12
+- Unidade: kt_lag12
+
+
+
+
+
