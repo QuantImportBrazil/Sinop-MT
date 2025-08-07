@@ -25,10 +25,10 @@ Previsão Influenciada:
 - Mês previsto: 11
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais (23)
-        - UF MT
-        - Unidade sm_diff
+Fator Influenciador: Comércio Exterior
+- Produto Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais (23)
+- UF MT
+- Unidade sm_diff
 \n
 
 
@@ -44,10 +44,10 @@ Previsão Influenciada:
 - Mês previsto: 12
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais (23)
-        - UF RS
-        - Unidade kt_lag13
+Fator Influenciador: Comércio Exterior
+- Produto Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais (23)
+- UF RS
+- Unidade kt_lag13
 \n
 
 
@@ -63,10 +63,10 @@ Previsão Influenciada:
 - Mês previsto: 12
 
 
-        Fator Influenciador: Comércio Exterior
-        - Produto Adubos (fertilizantes) (31)
-        - UF BA
-        - Unidade kt_lag12
+Fator Influenciador: Comércio Exterior
+- Produto Adubos (fertilizantes) (31)
+- UF BA
+- Unidade kt_lag12
 \n
 
 
