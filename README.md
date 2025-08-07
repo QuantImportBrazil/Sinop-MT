@@ -29,7 +29,8 @@ Fator Influenciador: Comércio Exterior
 - Produto: Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais (23)
 - UF: MT
 - Unidade: sm_diff
-\n
+
+
 
 
 
@@ -48,7 +49,8 @@ Fator Influenciador: Comércio Exterior
 - Produto: Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais (23)
 - UF: RS
 - Unidade: kt_lag13
-\n
+
+
 
 
 
@@ -67,6 +69,7 @@ Fator Influenciador: Comércio Exterior
 - Produto: Adubos (fertilizantes) (31)
 - UF: BA
 - Unidade: kt_lag12
-\n
+
+
 
 
