@@ -17,59 +17,56 @@
 
 ![Gráfico de Previsão](31021010.png)
 
-Fator de Influência em Destaque:
+Fator de Influência em Destaque nos últimos 8 anos:
 
 Previsão Influenciada:
 - Município: Sinop
 - Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês previsto: 09
-
-        Fator Influenciador: Chuva
-        - Unidade mm_lag4
-        - Mês 12
-        - UF PR
+- Mês previsto: 11
 
 
-
+        Fator Influenciador: Comércio Exterior
+        - Produto Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais (23)
+        - UF MT
+        - Unidade sm_diff
+\n
 
 
 
 
 ![Gráfico de Previsão](31022100.png)
 
-Fator de Influência em Destaque:
+Fator de Influência em Destaque nos últimos 8 anos:
 
 Previsão Influenciada:
 - Município: Sinop
 - Produto (NCM): Sulfato de amônio-31022100 
-- Mês previsto: 09
-
-        Fator Influenciador: Chuva
-        - Unidade mm_lag5
-        - Mês 11
-        - UF MA
+- Mês previsto: 12
 
 
-
+        Fator Influenciador: Comércio Exterior
+        - Produto Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais (23)
+        - UF RS
+        - Unidade kt_lag13
+\n
 
 
 
 
 ![Gráfico de Previsão](31042090.png)
 
-Fator de Influência em Destaque:
+Fator de Influência em Destaque nos últimos 8 anos:
 
 Previsão Influenciada:
 - Município: Sinop
 - Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês previsto: 04
+- Mês previsto: 12
 
-        Fator Influenciador: Chuva
-        - Unidade mm_lag7
-        - Mês 04
+
+        Fator Influenciador: Comércio Exterior
+        - Produto Adubos (fertilizantes) (31)
         - UF BA
-
-
-
+        - Unidade kt_lag12
+\n
 
 
