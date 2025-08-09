@@ -24,10 +24,10 @@ Previsão Influenciada:
 
 
 Fator Influenciador: Comex
-- Município: Maringá
-- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
-- Mês previsto: 12
-- Unidade: kt_lag12
+- Município: Cuiabá
+- Grupo de Produto (SH2): Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais-23 
+- Mês previsto: 11
+- Unidade: sm_diff
 
 
 
@@ -44,10 +44,10 @@ Previsão Influenciada:
 
 
 Fator Influenciador: Comex
-- Município: Maringá
-- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
+- Município: Porto Alegre
+- Grupo de Produto (SH2): Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais-23 
 - Mês previsto: 12
-- Unidade: kt_lag12
+- Unidade: kt_lag13
 
 
 
@@ -64,8 +64,8 @@ Previsão Influenciada:
 
 
 Fator Influenciador: Comex
-- Município: Maringá
-- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
+- Município: Feira de Santana
+- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
 - Mês previsto: 12
 - Unidade: kt_lag12
 
