@@ -16,70 +16,17 @@
 
 
 ![Gráfico de Previsão](31021010.png)
-
-Fator de Influência em Destaque nos últimos 8 anos:
-
+Fator de Influência em Destaque:
 Previsão Influenciada:
 - Município: Sinop
 - Produto (NCM): Ureia, mesmo em solução aquosa, com teor de nitrogênio (azoto) superior a 45 %, em peso, calculado sobre o produto anidro no estado seco-31021010 
-- Mês: 11
+- Mês previsto: 11
 
 
-Fator Influenciador: Comércio Exterior
-- Produto: Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais (23)
-- UF: MT
-- Unidade: sm_diff
-
-
-
-
-
-
-
-
-
-
-.
-
-![Gráfico de Previsão](31022100.png)
-
-Fator de Influência em Destaque nos últimos 8 anos:
-
-Previsão Influenciada:
-- Município: Sinop
-- Produto (NCM): Sulfato de amônio-31022100 
-- Mês: 12
-
-
-Fator Influenciador: Comércio Exterior
-- Produto: Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais (23)
-- UF: RS
-- Unidade: kt_lag13
-
-
-
-
-
-
-
-
-
-
-.
-
-![Gráfico de Previsão](31042090.png)
-
-Fator de Influência em Destaque nos últimos 8 anos:
-
-Previsão Influenciada:
-- Município: Sinop
-- Produto (NCM): Outros cloretos de potássio-31042090 
-- Mês: 12
-
-
-Fator Influenciador: Comércio Exterior
-- Produto: Adubos (fertilizantes) (31)
-- UF: BA
+Fator Influenciador: Comex
+- Município: Maringá
+- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
+- Mês previsto: 12
 - Unidade: kt_lag12
 
 
@@ -88,7 +35,41 @@ Fator Influenciador: Comércio Exterior
 
 
 
+![Gráfico de Previsão](31022100.png)
+Fator de Influência em Destaque:
+Previsão Influenciada:
+- Município: Sinop
+- Produto (NCM): Sulfato de amônio-31022100 
+- Mês previsto: 12
+
+
+Fator Influenciador: Comex
+- Município: Maringá
+- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
+- Mês previsto: 12
+- Unidade: kt_lag12
 
 
 
-.
+
+
+
+
+![Gráfico de Previsão](31042090.png)
+Fator de Influência em Destaque:
+Previsão Influenciada:
+- Município: Sinop
+- Produto (NCM): Outros cloretos de potássio-31042090 
+- Mês previsto: 12
+
+
+Fator Influenciador: Comex
+- Município: Maringá
+- Produto (NCM): Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)-31054000 
+- Mês previsto: 12
+- Unidade: kt_lag12
+
+
+
+
+
