@@ -27,7 +27,7 @@ Previsão Influenciada:
 Fator Influenciador: Comex
 - Unidade Federativa: GO
 - Grupo de Produto (SH2): Adubos (fertilizantes)-31 
-- Mês: 9
+- Mês: 3
 - Unidade: kt_mun
 
 
