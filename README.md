@@ -15,27 +15,6 @@
 **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Selecionar Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)**
 
 
-![Gráfico de Previsão](31022100.png)
-Fator de Influência em Destaque:
-Previsões emitidas no mês 8.
-Previsão Influenciada:
-- Município: Sinop
-- Produto (NCM): Sulfato de amônio-31022100 
-- Mês previsto: 11
-
-
-Fator Influenciador: Quantidade em Comex
-- Unidade Federativa: BA
-- Grupo de Produto (SH2): Adubos (fertilizantes)-31 
-- Mês: 3
-- Unidade: kt_lag1
-
-
-
-
-
-
-
 ![Gráfico de Previsão](31042090.png)
 Fator de Influência em Destaque:
 Previsões emitidas no mês 8.
